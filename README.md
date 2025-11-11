@@ -57,7 +57,9 @@ Escalamiento:
 
 
 Utilizamos Standard Scaler para estandarizar las variables excluyendo las columnas 'agent' porque es un Id, 'is_canceled' porque es el target,y  'arrival_date_year' porque es una fecha.
+
 Dashboard exploratorio en Power BI
+
 Principales visualizaciones desarrolladas:
 Distribución de reservas por segmento de mercado y tipo de habitación; vinculado al estado de cancelación. 
 
@@ -69,5 +71,6 @@ Análisis de composición de grupos (adultos/niños) y estacionalidad de estadí
 
 Evolución temporal de cancelaciones por mes; varía igual que la cantidad de estadías
 Cancelación según si el huésped es repetido: la probabilidad de cancelación es mayor si el huésped es nuevo 
+
 Insight principal:
 La tasa de cancelación se ve relacionada a la condición del huésped, si ya se hospedó o no. Además el precio de la habitación, combinado con el tipo adhieren información a la creación de un perfil con mayor probabilidad de cancelación. La estacionalidad está vinculada a la cantidad de huéspedes y la composición del grupo (niños, adultos y bebés) ambas no se relacionan con la cancelación.
