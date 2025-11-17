@@ -77,3 +77,34 @@ Cancelación según si el huésped es repetido: la probabilidad de cancelación 
 
 **Insight principal:**
 La tasa de cancelación se ve relacionada a la condición del huésped, si ya se hospedó o no. Además el precio de la habitación, combinado con el tipo adhieren información a la creación de un perfil con mayor probabilidad de cancelación. La estacionalidad está vinculada a la cantidad de huéspedes y la composición del grupo (niños, adultos y bebés) ambas no se relacionan con la cancelación.
+## Conclusiones y recomendaciones de negocio
+### Conclusiones generales
+- El análisis confirma que las cancelaciones no son aleatorias: existen patrones claros asociados al precio, al lead time, al segmento de mercado y a si el huésped es nuevo o repetido.
+
+- El precio promedio (ADR) es un factor determinante: las tarifas elevadas presentan una mayor probabilidad de cancelación, lo que sugiere sensibilidad al costo o reservas impulsivas que luego no se concretan.
+
+- El lead time también influye: reservas hechas con mucha anticipación tienden a cancelarse más, mientras que las de corto plazo suelen mantenerse.
+
+- Los huéspedes no repetidos cancelan más que los clientes fidelizados, lo que refuerza la importancia de trabajar sobre estrategias de retención.
+
+- La estacionalidad está relacionada a la demanda, pero no explica por sí misma la cancelación.
+
+### Recomendaciones de negocio
+1.  Implementar estrategias diferenciadas según lead time:
+   - Políticas de cancelación menos flexibles para reservas de largo plazo.
+   - Señales o pequeños depósitos para reservas con larga anticipación.
+
+2. Reforzar programas de fidelización:
+   -  Descuentos o beneficios exclusivos para huéspedes repetidos.
+    - Comunicaciones personalizadas para reducir cancelaciones en huéspedes nuevos.
+
+3. Ajustar precios en picos estacionales basados en la sensibilidad observada:
+  - Tarifas dinámicas para evitar sobreprecios que generen altas tasas de cancelación.
+
+4. Identificar segmentos de mercado de mayor riesgo y aplicar reglas comerciales específicas:
+  - Por ejemplo, depósitos mayores, confirmación doble o estrategias de retención.
+
+5. Usar el modelo predictivo como herramienta operativa:
+  - Permitir alertas tempranas para reservas con alta probabilidad de cancelación.
+  - Ajustar la disponibilidad real del hotel (overbooking controlado).
+
