@@ -1,5 +1,4 @@
 # **Proyecto**: Análisis Exploratorio y Preparación de Datos de Reservas Hoteleras
-Descripción
 Este proyecto se centra en el Análisis Exploratorio de Datos (EDA) y la Preparación de Datos de un dataset de reservas hoteleras, con el objetivo de optimizar la calidad y consistencia del conjunto de datos previo a la modelización.
 
 El enfoque principal está en detectar patrones, correlaciones, valores atípicos y nulos, asegurando una base sólida para etapas analíticas posteriores, como la predicción de cancelaciones y el diseño de estrategias comerciales.
@@ -7,17 +6,16 @@ Dataset utilizado
 Fuente: Hotel Booking Cancellation Prediction – Kaggle
 
 
-Descripción: contiene información detallada sobre reservas hoteleras, incluyendo datos del cliente, características del hotel, tipo de habitación, fechas, duración, anticipación, precio promedio, estado de la reserva (cancelada o no), entre otros.
+## Descripción: 
+contiene información detallada sobre reservas hoteleras, incluyendo datos del cliente, características del hotel, tipo de habitación, fechas, duración, anticipación, precio promedio, estado de la reserva (cancelada o no), entre otros.
 Contexto de negocio
 El proyecto simula el caso de un servicio hotelero que busca optimizar su gestión de reservas mediante el análisis del comportamiento de sus clientes.
- Los objetivos de negocio incluyen:
-Reducir el impacto económico de las cancelaciones recurrentes.
 
+## Los objetivos de negocio incluyen:
+[x] Reducir el impacto económico de las cancelaciones recurrentes.
+[x] Predecir la probabilidad de cancelación para ajustar políticas y descuentos.
+[x] Identificar patrones de comportamiento en clientes y segmentos del mercado.
 
-Predecir la probabilidad de cancelación para ajustar políticas y descuentos.
-
-
-Identificar patrones de comportamiento en clientes y segmentos del mercado.
 Se plantea, además, el diseño de estrategias basadas en perfiles de clientes con mayor o menor propensión a cancelar.
 Hipótesis analizadas
 H1: El segmento del mercado influye en el tipo de habitación reservada.
