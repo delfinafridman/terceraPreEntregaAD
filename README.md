@@ -18,17 +18,18 @@ El proyecto simula el caso de un servicio hotelero que busca optimizar su gesti�
 
 [ ] Identificar patrones de comportamiento en clientes y segmentos del mercado.
 
-Se plantea, además, el diseño de estrategias basadas en perfiles de clientes con mayor o menor propensión a cancelar.
-Hipótesis analizadas
-H1: El segmento del mercado influye en el tipo de habitación reservada.
+[ ] Se plantea, además, el diseño de estrategias basadas en perfiles de clientes con mayor o menor propensión a cancelar.
+
+## Hipótesis analizadas
+[ ] H1: El segmento del mercado influye en el tipo de habitación reservada.
 Se realiza un Test de independencia (Chi-cuadrado) entre market_segment y reserved_room_type. Se rechaza la hipótesis nula. El segmento del mercado influye en el tipo de habitación reservada.
 
 
-H2: Un precio promedio alto tiene una relación directa con las cancelaciones. 
+- H2: Un precio promedio alto tiene una relación directa con las cancelaciones. 
 Test de diferencia de medias (t-test) entre adr en reservas canceladas y no canceladas. Se rechaza la hipótesis nula. Un precio promedio alto tiene una relación directa con las cancelaciones.
 
 
-H3: La cantidad de noches reservadas se relaciona con el precio.
+*   H3: La cantidad de noches reservadas se relaciona con el precio.
 Correlación de Pearson entre adr y total nights. Se rechaza la hipótesis nula. La cantidad de noches reservadas se relaciona con el precio.
 
 
