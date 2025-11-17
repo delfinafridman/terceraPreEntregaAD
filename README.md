@@ -1,4 +1,4 @@
-Proyecto: Análisis Exploratorio y Preparación de Datos de Reservas Hoteleras
+##Proyecto: Análisis Exploratorio y Preparación de Datos de Reservas Hoteleras
 Descripción
 Este proyecto se centra en el Análisis Exploratorio de Datos (EDA) y la Preparación de Datos de un dataset de reservas hoteleras, con el objetivo de optimizar la calidad y consistencia del conjunto de datos previo a la modelización.
  El enfoque principal está en detectar patrones, correlaciones, valores atípicos y nulos, asegurando una base sólida para etapas analíticas posteriores, como la predicción de cancelaciones y el diseño de estrategias comerciales.
